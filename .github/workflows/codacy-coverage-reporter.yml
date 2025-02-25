@@ -5,6 +5,7 @@ on:
       - opened
       - edited
     branches:
+      - main
       - codacy-dev
     paths-ignore:
       - '.github/workflows/*'
