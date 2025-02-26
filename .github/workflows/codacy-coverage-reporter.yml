@@ -4,9 +4,9 @@ on:
     types:
       - opened
       - edited
-    branches:
-      - main
-      - codacy-dev
+  #  branches:
+  #    - main
+  #    - codacy-dev
     paths-ignore:
       - '.github/workflows/*'
   #push:
