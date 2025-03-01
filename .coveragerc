@@ -1,6 +1,6 @@
 [run]
 branch = True
-source = python_app/app
+source = app
 omit = */__init__.py
 
 [report]
